@@ -11,4 +11,4 @@ echo "[Parrot Installer] - Installing Client"
 cd ~/.minecraft/versions/
 wget https://download1639.mediafire.com/v66oa6u9qlxg/a3qxi1lofvf3rnk/Parrot.zip
 unzip Parrot.zip
-echo "[Parrot Installer] - Installation Completed By ziobenito on telegram"
+echo "[Parrot Installer] - Installation Completed By ParrotInstaller"
